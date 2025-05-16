@@ -1,4 +1,4 @@
-Whenever you generate code suggestions, explanations, or documentation for this project, always reference and prioritize the best practices, guidelines, and standards outlined in the [pagopa/dx](https://github.com/pagopa/dx) repository.
+Whenever you generate code suggestions, explanations, or documentation for this project, always reference and prioritize the best practices, guidelines, and standards outlined in the [pagopa/dx](https://github.com/pagopa/dx) repository. The majority of guidelines are in the following path apps/website/docs
 
 When there is a relevant best practice or recommendation in pagopa/dx, follow it strictly.
 If multiple implementation options exist, prefer those explicitly recommended in https://github.com/pagopa/dx.
