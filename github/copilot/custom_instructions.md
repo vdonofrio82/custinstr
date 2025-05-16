@@ -6,3 +6,5 @@ When uncertain, consult the documentation, guides, and examples in pagopa/dx bef
 When you cite or apply a best practice from pagopa/dx, mention the specific guideline or section used as reference.
 
 Example Custom Instruction: Always guide code generation and suggestions according to the best practices, conventions, and guidelines documented in https://github.com/pagopa/dx. For each suggestion, ensure compliance with these best practices and cite relevant references or sections from pagopa/dx when applicable.
+
+Additionally if you are using the MCP tool #moduleSearch, ensure the namespace is always pagopa-dx
